@@ -1,6 +1,6 @@
 # Product Catalog API 
 ## Description
-The Product Catalog API is a robust and scalable backend solution designed for e-commerce platforms. It provides a comprehensive set of features to manage products, categories, inventory, user accounts, and reports. Built with Node.js and Express.js, this API is optimized for performance, security, and ease of use. It integrates with MongoDB for efficient data storage and retrieval, ensuring seamless handling of large-scale e-commerce operations.
+The Product Catalog API is  designed for e-commerce platforms. It provides a comprehensive set of features to manage products, categories, inventory, user accounts, and reports. Built with Node.js and Express.js,  It integrates with MongoDB for efficient data storage and retrieval, ensuring seamless handling of large-scale e-commerce operations.
 
 ## Key features include:
 
@@ -146,23 +146,10 @@ The API provides meaningful error messages for common issues, such as:
 
 - 500 Server errors.
 
-## Security
-The API includes the following security features:
 
-- Helmet: Sets secure HTTP headers.
-
-- CORS: Enables cross-origin resource sharing.
-
-- Rate Limiting: Protects against brute-force attacks.
-
-- JWT: Secures authentication and authorization.
 
 ## Testing
 To test the API:
 - Use tools like Postman or cURL.
 - Start the server and send requests to the endpoints.
 - Verify responses and error handling.
-
-
-
-## Click Here to the postman Link: [Here](https://documenter.getpostman.com/view/41987133/2sAYkLkwGt#0da05474-c560-4e72-8306-9dab0269bfe2)
